@@ -1,0 +1,7 @@
+Penilaian :
+
+Kehadiran 	: 25%
+UTS		: 20%
+UAS		: 20%
+Tugas Akhir	: 25%
+Tugas Kelompok	: 10%

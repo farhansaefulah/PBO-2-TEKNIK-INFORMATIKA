@@ -1,0 +1,13 @@
+======== LOGIN MAHASISWA =========
+untuk username : mahasiswa 
+untuk password : 123
+==================================
+
+======== LOGIN DOSEN =========
+untuk username : dosen  
+untuk password : 123
+==============================
+
+
+link download github : https://github.com/hansaefulah/PBO-2-TEKNIK-INFORMATIKA/tree/main/Tugas%20Besar%20App%20KRS
+link download dropden :
